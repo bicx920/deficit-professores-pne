@@ -1,4 +1,4 @@
-# deficit-professores-pne
+# Deficit-professores-pne
 Análise de dados sobre o déficit de professores e as metas do PNE.
 # Déficit de Professores e PNE
 
